@@ -1,4 +1,4 @@
-var f = prompt("Enter Farenheit temperature"); 
+var f = prompt("Enter Farenheit Temperature"); 
 
     f = parseInt(f); 
 
